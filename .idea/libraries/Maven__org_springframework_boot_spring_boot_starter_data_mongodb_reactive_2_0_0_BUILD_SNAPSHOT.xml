@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework.boot:spring-boot-starter-data-mongodb-reactive:2.0.0.BUILD-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-mongodb-reactive-2.0.0.BUILD-20170617.084337-345.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-mongodb-reactive-2.0.0.BUILD-20170619.103737-347.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-mongodb-reactive-2.0.0.BUILD-20170617.084337-345-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-mongodb-reactive-2.0.0.BUILD-20170619.103737-347-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-mongodb-reactive-2.0.0.BUILD-20170617.084337-345-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-mongodb-reactive/2.0.0.BUILD-SNAPSHOT/spring-boot-starter-data-mongodb-reactive-2.0.0.BUILD-20170619.103737-347-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
